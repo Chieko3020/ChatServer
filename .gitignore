@@ -1,0 +1,24 @@
+# Build outputs
+build/
+bin/
+
+# CMake generated
+compile_commands.json
+
+# IDE — VSCode
+.vscode/
+.specstory/
+
+# Editors
+*.swp
+*.swo
+*~
+
+# LSP / language servers
+.clangd/
+.cache/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
